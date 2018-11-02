@@ -51,3 +51,7 @@ NEXT STEPS:
 
 DONE with this project for now... 
 -MV
+
+### 2018 11 01 1040p 
+RE-COMMITTED local repo
+RE-PUSHED local repo back up to OVERWRITE cloud repo after mistakenly re-forking orginal DeborahK repo on top of MV cloud repo (losing changes from local repo)
