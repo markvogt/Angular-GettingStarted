@@ -38,8 +38,7 @@ UPDATED readme.md file (this file)...
 
 DELETED own manual (empty) repo for this project github.com/markvogt/Angular-Getting-Started  (note extra hyphen)
 
-### 2018 11 01 1015p
-PURGED all folders & files except for folder /APM-Final/    (and readme.md) from project - per video tutoral !!!! 
+### 2018 11 01 1015p PURGED all folders & files except for folder /APM-Final/    (and readme.md) from project - per video tutoral !!!! 
 RAN >npm install
 RAN >npm audit fix
 RAN >npm start 
@@ -54,4 +53,5 @@ DONE with this project for now...
 
 ### 2018 11 01 1040p 
 RE-COMMITTED local repo
+
 RE-PUSHED local repo back up to OVERWRITE cloud repo after mistakenly re-forking orginal DeborahK repo on top of MV cloud repo (losing changes from local repo)
