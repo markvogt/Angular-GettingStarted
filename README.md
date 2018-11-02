@@ -38,3 +38,6 @@ UPDATED readme.md file (this file)...
 
 DELETED own manual (empty) repo for this project github.com/markvogt/Angular-Getting-Started  (note extra hyphen)
 
+### 2018 11 01 1015p
+PURGED all folders & files except for folder /APM-Final/    (and readme.md) from project - per video tutoral !!!! 
+
