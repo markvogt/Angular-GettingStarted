@@ -24,13 +24,16 @@ Note also that Stackblitz does not seem to recognize the Font Awesome icons. So 
 
 ### 2018 11 01 815p 
 STARTED COURSE
+
 LOCATED Deborah's repo on github.com
+
 FORKED over to github.com/markvogt/Angular-GettingStarted/
 CLONED cloud repo
-    * COPIED URL
-    * LAUNCHED VSCode
-    * EXECUTED >git.clone using URL
-    * CLONED to markevogt@outlook.com/Development/GitHub/Angular-GettingStarted/
+* COPIED URL
+* LAUNCHED VSCode
+* EXECUTED >git.clone using URL
+* CLONED to markevogt@outlook.com/Development/GitHub/Angular-GettingStarted/
+
 UPDATED readme.md file (this file)...
 
 DELETED own manual (empty) repo for this project github.com/markvogt/Angular-Getting-Started  (note extra hyphen)
