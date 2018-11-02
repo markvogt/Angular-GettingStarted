@@ -40,4 +40,14 @@ DELETED own manual (empty) repo for this project github.com/markvogt/Angular-Get
 
 ### 2018 11 01 1015p
 PURGED all folders & files except for folder /APM-Final/    (and readme.md) from project - per video tutoral !!!! 
+RAN >npm install
+RAN >npm audit fix
+RAN >npm start 
+=> App COMPILED successfully
+=> App LAUNCHED successfully ! 
 
+NEXT STEPS: 
+* RE-CREATE the entire project, but using only the /APM-Start/ folder (so can actually BUILD this app! )
+
+DONE with this project for now... 
+-MV
