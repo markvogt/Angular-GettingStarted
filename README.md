@@ -18,3 +18,20 @@ If you want to work through the course without downloading npm or any of the lib
 NOTE: If you chose to use Stackblitz, note that it currently does not support reading json files from a folder defined in the angular.json file. Rather, you need to copy the products folder from the api folder to the assets folder. Then modify the productUrl to look in the assets folder: private productUrl = 'assets/products/products.json';
 
 Note also that Stackblitz does not seem to recognize the Font Awesome icons. So you will instead see portions of squares.
+
+# 2018 11 01 MV:
+# STARTED COURSE (USING DEBORAH K'S REPO)
+
+### 2018 11 01 815p 
+STARTED COURSE
+LOCATED Deborah's repo on github.com
+FORKED over to github.com/markvogt/Angular-GettingStarted/
+CLONED cloud repo
+    * COPIED URL
+    * LAUNCHED VSCode
+    * EXECUTED >git.clone using URL
+    * CLONED to markevogt@outlook.com/Development/GitHub/Angular-GettingStarted/
+UPDATED readme.md file (this file)...
+
+DELETED own manual (empty) repo for this project github.com/markvogt/Angular-Getting-Started  (note extra hyphen)
+
